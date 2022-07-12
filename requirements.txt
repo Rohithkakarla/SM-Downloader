@@ -1,0 +1,4 @@
+Flask==2.0.3
+mutagen==1.45.1
+pytube==12.1.0
+youtube-search-python==1.6.2
